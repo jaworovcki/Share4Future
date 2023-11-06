@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZsoHClCxaOj6tfHEEzPR/WnBUDiYWSG9yRdFpbfSDes=",
+  "Source": "ShareForFuture.API",
+  "BasePath": "_content/ShareForFuture.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

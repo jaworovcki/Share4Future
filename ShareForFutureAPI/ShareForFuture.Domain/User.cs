@@ -39,14 +39,6 @@ public class User
     //  necessary data to enable that feature.
     public DateTime? LastSuccessfullLogin { get; set; }
 
-    //Requirement: Users can belong to one [...] user group.
-    public UserGroup? UserGroup { get; set; }
-
-    public int UserGroupId { get; set; }
-
-    // Requirement: Every user can associate her account with 1..many identities.
-    public List<Identity> Identities { get; set; } = new();
-
     // Requirement: Every user can offer 0..many devices for sharing.
     public List<Offering> Offerings { get; set; } = new();
 

@@ -1,0 +1,11 @@
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\bin\Debug\net6.0\ShareForFuture.Infrastructure.deps.json
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\bin\Debug\net6.0\ShareForFuture.Infrastructure.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\bin\Debug\net6.0\ShareForFuture.Infrastructure.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.AssemblyInfoInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.AssemblyInfo.cs
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\refint\ShareForFuture.Infrastructure.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ref\ShareForFuture.Infrastructure.dll

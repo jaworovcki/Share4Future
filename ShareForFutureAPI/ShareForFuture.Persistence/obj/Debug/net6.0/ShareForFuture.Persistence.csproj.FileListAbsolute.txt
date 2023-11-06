@@ -1,0 +1,11 @@
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFuture.Persistence.deps.json
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFuture.Persistence.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFuture.Persistence.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.AssemblyInfoInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.AssemblyInfo.cs
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.csproj.CoreCompileInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\refint\ShareForFuture.Persistence.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ref\ShareForFuture.Persistence.dll

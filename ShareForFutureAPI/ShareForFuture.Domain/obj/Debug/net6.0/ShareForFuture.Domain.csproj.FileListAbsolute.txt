@@ -1,0 +1,11 @@
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\bin\Debug\net6.0\ShareForFuture.Domain.deps.json
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\bin\Debug\net6.0\ShareForFuture.Domain.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\bin\Debug\net6.0\ShareForFuture.Domain.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.AssemblyInfoInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.AssemblyInfo.cs
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.csproj.CoreCompileInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\refint\ShareForFuture.Domain.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ref\ShareForFuture.Domain.dll
