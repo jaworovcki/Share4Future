@@ -9,3 +9,4 @@ C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\refint\ShareForFuture.Domain.dll
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.pdb
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ref\ShareForFuture.Domain.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.csproj.AssemblyReference.cache

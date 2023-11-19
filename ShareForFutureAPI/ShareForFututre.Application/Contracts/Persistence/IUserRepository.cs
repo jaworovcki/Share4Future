@@ -1,5 +1,5 @@
 ﻿namespace ShareForFututre.Application.Contracts.Persistence;
-using ShareForFuture.Domain;
+using ShareForFuture.Domain.DomainModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,5 +8,6 @@ using System.Threading.Tasks;
 
 public interface IUserRepository : IGenericRepository<User>
 {
+
 }
 

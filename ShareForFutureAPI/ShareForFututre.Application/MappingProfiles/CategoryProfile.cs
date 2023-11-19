@@ -1,6 +1,6 @@
 ﻿namespace ShareForFututre.Application.MappingProfiles;
 using AutoMapper;
-using ShareForFuture.Domain;
+using ShareForFuture.Domain.DomainModels;
 using ShareForFututre.Application.Features.Category.Queries.GetCategory;
 using System;
 using System.Collections.Generic;

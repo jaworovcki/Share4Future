@@ -1,14 +1,12 @@
-﻿using ShareForFuture.Domain;
+﻿namespace ShareForFututre.Application.Contracts.Persistence;
+using ShareForFuture.Domain.DomainModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShareForFututre.Application.Contracts.Persistence
+public interface IOfferingRepository : IGenericRepository<Offering>
 {
-    public interface IOfferingRepository : IGenericRepository<Offering>
-    {
 
-    }
 }

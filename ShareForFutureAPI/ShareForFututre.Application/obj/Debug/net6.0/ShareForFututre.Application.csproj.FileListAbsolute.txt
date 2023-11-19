@@ -1,0 +1,15 @@
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.csproj.AssemblyReference.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.AssemblyInfoInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.AssemblyInfo.cs
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.csproj.CoreCompileInputs.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\bin\Debug\net6.0\ShareForFututre.Application.deps.json
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\bin\Debug\net6.0\ShareForFututre.Application.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\bin\Debug\net6.0\ShareForFututre.Application.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\bin\Debug\net6.0\ShareForFuture.Domain.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\bin\Debug\net6.0\ShareForFuture.Domain.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.csproj.CopyComplete
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\refint\ShareForFututre.Application.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ShareForFututre.Application.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFututre.Application\obj\Debug\net6.0\ref\ShareForFututre.Application.dll

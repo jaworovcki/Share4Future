@@ -9,3 +9,4 @@ C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\refint\ShareForFuture.Infrastructure.dll
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.pdb
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ref\ShareForFuture.Infrastructure.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Infrastructure\obj\Debug\net6.0\ShareForFuture.Infrastructure.csproj.AssemblyReference.cache

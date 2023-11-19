@@ -1,4 +1,4 @@
-﻿namespace ShareForFututre.Application;
+﻿namespace ShareForFuture.Application;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;

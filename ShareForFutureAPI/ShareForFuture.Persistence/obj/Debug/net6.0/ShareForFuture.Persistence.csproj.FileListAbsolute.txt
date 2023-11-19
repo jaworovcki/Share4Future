@@ -9,3 +9,11 @@ C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\ne
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\refint\ShareForFuture.Persistence.dll
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.pdb
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ref\ShareForFuture.Persistence.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.csproj.AssemblyReference.cache
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFuture.Domain.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFututre.Application.dll
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFuture.Domain.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFututre.Application.pdb
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.csproj.CopyComplete
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\bin\Debug\net6.0\ShareForFuture.Persistence.runtimeconfig.json
+C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Persistence\obj\Debug\net6.0\ShareForFuture.Persistence.genruntimeconfig.cache
