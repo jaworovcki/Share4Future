@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lupuruz86W+UYdkz3HVa54ubSjnEEZzhNqyv0ts7xpBauNkMLUxMgHiXGomUUyTKIkz373B62/Xi/9NiVCGzAA==",
+  "dgSpecHash": "nYftB3Oq0hGu6T1xx9FQzVMqr2EFxlf6auI1EVQ1WcZm6LCl3bJ5mhCwxUFGqf6BYcWBzfw0vUr3eBcZH5Xjwg==",
   "success": true,
-  "projectFilePath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.UnitTests\\ShareForFuture.UnitTests.csproj",
+  "projectFilePath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.UnitTests\\ShareForFuture.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJlJITmg62yrvLggwwJ05yNl2FxknPbHd6XdE5jZQl65qzQBdVkRp5Z9i6KypbGBda6hh/TlFQyTanahMwbh+Q==",
+  "dgSpecHash": "bFFHq1Ut3Sa4dHUyzaea2nF2bprutffqqVJTUCPcgtdkQEBAIAN0nrKgGVNprY5HgLVZ20ZrMc+WsWBUSMrNMQ==",
   "success": true,
-  "projectFilePath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj",
+  "projectFilePath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

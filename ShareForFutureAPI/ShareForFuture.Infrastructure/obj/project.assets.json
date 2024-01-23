@@ -210,21 +210,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\ShareForFuture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\ShareForFuture.Infrastructure.csproj",
       "projectName": "ShareForFuture.Infrastructure",
-      "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\ShareForFuture.Infrastructure.csproj",
+      "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\ShareForFuture.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\obj\\",
+      "outputPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -264,8 +262,30 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj": {}
+    "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj": {
+    "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj",
+        "projectUniqueName": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj",
         "projectName": "ShareForFuture.API",
-        "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj",
+        "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\ShareForFuture.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\obj\\",
+        "outputPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj": {
-                "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj"
+              "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj": {
+                "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj"
               },
-              "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj": {
-                "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj"
+              "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj": {
+                "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj"
               }
             }
           }
@@ -81,28 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj": {
+    "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj",
+        "projectUniqueName": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj",
         "projectName": "ShareForFuture.Domain",
-        "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj",
+        "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\obj\\",
+        "outputPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -142,39 +138,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj": {
+    "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj",
+        "projectUniqueName": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj",
         "projectName": "ShareForFuture.Persistence",
-        "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj",
+        "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\ShareForFuture.Persistence.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\obj\\",
+        "outputPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj": {
-                "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj"
+              "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj": {
+                "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj"
               },
-              "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj": {
-                "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj"
+              "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj": {
+                "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj"
               }
             }
           }
@@ -220,36 +214,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj": {
+    "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj",
+        "projectUniqueName": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj",
         "projectName": "ShareForFututre.Application",
-        "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj",
+        "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\ShareForFututre.Application.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\obj\\",
+        "outputPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFututre.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj": {
-                "projectPath": "C:\\dotnet\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj"
+              "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj": {
+                "projectPath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Domain\\ShareForFuture.Domain.csproj"
               }
             }
           }
@@ -293,7 +285,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
         }
       }
     }
