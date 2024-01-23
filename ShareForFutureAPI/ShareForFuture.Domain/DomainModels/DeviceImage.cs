@@ -5,7 +5,7 @@ namespace ShareForFuture.Domain.DomainModels;
 public class DeviceImage
 {
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public string Id { get; set; } = string.Empty;
+    public string? Id { get; set; }
 
     public string Title { get; set; } = string.Empty;
 

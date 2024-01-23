@@ -5,7 +5,7 @@ namespace ShareForFuture.Domain.DomainModels;
 public class UnavailabilityPeriod
 {
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public string Id { get; set; } = string.Empty;
+    public string? Id { get; set; }
 
     public DateTime From { get; set; }
 

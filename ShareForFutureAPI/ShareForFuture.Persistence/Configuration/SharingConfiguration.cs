@@ -22,9 +22,6 @@ public class SharingConfiguration : IEntityTypeConfiguration<Sharing>
             .HasForeignKey(s => s.BorrowerId).OnDelete(DeleteBehavior.Restrict)
             .IsRequired(true);
 
-        builder.HasCheckConstraint("UntilAfterFrom",
-            $"[{nameof(Sharing.Until)}] > [{nameof(Sharing.From)}]");
-
         builder.Property(s => s.AcceptDeclineMessage)
             .HasMaxLength(500);
 

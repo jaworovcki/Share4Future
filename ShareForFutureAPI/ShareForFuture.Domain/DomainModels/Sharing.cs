@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 public class Sharing
 {
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public string Id { get; set; } = string.Empty;
+    public string? Id { get; set; }
 
     public Offering? Offering { get; set; }
 

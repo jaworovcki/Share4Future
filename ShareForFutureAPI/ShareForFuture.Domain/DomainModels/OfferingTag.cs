@@ -5,7 +5,7 @@ namespace ShareForFuture.Domain.DomainModels;
 public class OfferingTag
 {
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public string Id { get; set; } = string.Empty;
+    public string? Id { get; set; }
 
     public string Tag { get; set; } = string.Empty;
 

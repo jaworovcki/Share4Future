@@ -15,8 +15,5 @@ public class UnavailabilityPeriodConfiguration : IEntityTypeConfiguration<Unavai
     {
         builder.HasKey(u => u.Id);
 
-        builder.HasCheckConstraint("UntilAfterFrom",
-            @$"[{nameof(UnavailabilityPeriod.Until)}] IS NULL
-                OR [{nameof(UnavailabilityPeriod.Until)}] > [{nameof(UnavailabilityPeriod.From)}]");
     }
 }

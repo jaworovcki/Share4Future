@@ -17,7 +17,7 @@ public static class PersistaceServiceRegistration
     public static IServiceCollection AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddDbContext<DataContext>(options =>
-                   options.UseSqlServer(configuration.GetConnectionString("ShareForFutureConnectionString")));
+                   options.UseNpgsql(configuration.GetConnectionString("ShareForFutureConnectionString")));
 
         services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 

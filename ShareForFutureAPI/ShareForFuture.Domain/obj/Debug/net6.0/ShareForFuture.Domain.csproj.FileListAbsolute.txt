@@ -10,3 +10,15 @@ C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.pdb
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ref\ShareForFuture.Domain.dll
 C:\dotnet\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.csproj.AssemblyReference.cache
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\bin\Debug\net6.0\ShareForFuture.Domain.deps.json
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\bin\Debug\net6.0\ShareForFuture.Domain.dll
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\bin\Debug\net6.0\ShareForFuture.Domain.pdb
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.csproj.AssemblyReference.cache
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.AssemblyInfoInputs.cache
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.AssemblyInfo.cs
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.csproj.CoreCompileInputs.cache
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.dll
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\refint\ShareForFuture.Domain.dll
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ShareForFuture.Domain.pdb
+C:\Workspaces\Share4Future\ShareForFutureAPI\ShareForFuture.Domain\obj\Debug\net6.0\ref\ShareForFuture.Domain.dll

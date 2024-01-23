@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 public class Offering
 {
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public string Id { get; set; } = string.Empty;
+    public string? Id { get; set; }
 
     public User? User { get; set; }
 

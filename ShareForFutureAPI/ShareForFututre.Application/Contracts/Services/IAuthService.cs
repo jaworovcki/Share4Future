@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ShareForFuture.Application.Models.Authentication;
 
-namespace ShareForFututre.Application.Contracts.Services
+namespace ShareForFututre.Application.Contracts.Services;
+
+public interface IAuthService
 {
-    internal class IAuthService
-    {
-    }
+    Task<RegistrationResponseDto> RegisterAsync(RegistrationRequestDto registrationRequest);
 }
+
