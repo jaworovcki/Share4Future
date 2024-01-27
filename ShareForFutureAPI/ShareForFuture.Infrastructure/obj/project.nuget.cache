@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "101qaZFgFnjMAHTsdB4kaJqo2PUEqPpyqm0Wy32zU6hknOv+0n8GAdLhsER4iwkgW2NwG8GVxDCnFv70o1QA0w==",
+  "dgSpecHash": "IyF9YJ3ZA1wTpiWN+2+kBB0GKkDW2cBV8ccRSg8hIEFPhT/29YzKZsAhwUgpt6uEbDNPFrFO3Ua8tqLsm3J/Yg==",
   "success": true,
   "projectFilePath": "C:\\Workspaces\\Share4Future\\ShareForFutureAPI\\ShareForFuture.Infrastructure\\ShareForFuture.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -115,26 +115,5 @@
     "C:\\Users\\User\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
